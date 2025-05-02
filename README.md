@@ -1,2 +1,2 @@
-# How_tariffswere_really_calculated
+# How_tariffs_were_really_calculated
 Formula for calculating Trump's tariffs in Python
